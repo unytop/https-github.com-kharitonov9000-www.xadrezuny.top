@@ -1,0 +1,14 @@
+body{
+	background-color: #000;
+}
+.text{
+	color: #525252;
+	font-size: 20px;
+}
+
+.texto{
+font-style: italic;
+font-weight:bolder;
+background-color: #252525;
+color:#fff;
+}
