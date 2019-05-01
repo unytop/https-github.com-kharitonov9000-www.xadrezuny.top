@@ -61,7 +61,7 @@
   </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100 img-fluid wow flipOutX infinite" data-wow-duration="6s" src="/assets/02.jpg" alt="Second slide">
+      <img class="d-block w-100 img-fluid wow flipOutX infinite" data-wow-duration="6s" src="/assets/03.jpg" alt="Second slide">
       <div class="carousel-caption">
     <h5>Jogue online!</h5>
     <p>Acesse sua conta para jogar, ainda não tem conta?<br>cadastre-se grátis</p>
