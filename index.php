@@ -54,7 +54,7 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100 img-fluid wow flipInY infinite" data-wow-duration="5s" src="/assets/p1.jpg" alt="First slide" onMouseOver="this.src='assets/52.jpg'" onMouseOut="this.src='assets/01.jpg'">
+      <img class="d-block w-100 img-fluid wow flipInY infinite" data-wow-duration="5s" src="/assets/01.jpg" alt="First slide" onMouseOver="this.src='assets/52.jpg'" onMouseOut="this.src='assets/01.jpg'">
       <div class="carousel-caption">
     <h5>Análise de partidas famosas</h5>
     <p>aqui vc faz sua própria análise. Analise já!</p>
