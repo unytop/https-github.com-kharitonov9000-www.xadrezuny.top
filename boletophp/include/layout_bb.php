@@ -66,6 +66,7 @@
 	width: 666px;
 	margin: 0px auto;
 	padding-bottom: 30px;
+
 }
 
 #instructions {
@@ -86,6 +87,8 @@
 	background: url(imagens/logo_empresa.png)no-repeat top left;
 	padding-left:60px;
 	height: 65px;
+	margin-bottom: 10px;
+	margin-top: 15px;
 }
 
 #instr_header h1 {
