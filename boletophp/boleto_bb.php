@@ -109,7 +109,7 @@ DESENVOLVIDO PARA CARTEIRA 18
 $dadosboleto["identificacao"] = "Unytop | Xadrezunytop® |";
 $dadosboleto["cpf_cnpj"] = "08776317432";
 $dadosboleto["endereco"] = "Bairro Cidade Universitária Cj. Graciliano Ramos Nº 104";
-$dadosboleto["cidade_uf"] = 'Maceió / AL'.'&nbsp;&nbsp;&nbsp;'. 'Cep: 57073-208';
+$dadosboleto["cidade_uf"] = 'Maceió / AL'.'&emsp;'. 'Cep: 57073-208';
 $dadosboleto["cedente"] = "Unytop";
 
 // NÃO ALTERAR!
