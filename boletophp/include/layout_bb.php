@@ -82,22 +82,25 @@
 /* *** CABECALHO *** */
 
 #instr_header {
-	background: url('imagens/logo_empresa.png') no-repeat top left;
-	padding-left: 160px;
+	background: url(imagens/logo_empresa.png)no-repeat top left;
+	padding-left:60px;
 	height: 65px;
 }
 
 #instr_header h1 {
 	font-size: 16px;
 	margin: 5px 0px;
+	text-align:left;
 }
 
 #instr_header address {
 	font-style: normal;
+	text-align:left;
 }
 
 #instr_content {
-
+	font-style: normal;
+	text-align:left;
 }
 
 #instr_content h2 {
@@ -107,12 +110,12 @@
 
 #instr_content p {
 	font-size: 10px;
-	margin: 4px 0px;
+	position: center;
 }
 
 #instr_content ol {
 	font-size: 10px;
-	margin: 5px 0;
+	position: center;
 }
 
 #instr_content ol li {
@@ -125,6 +128,7 @@
 #instr_content ol li p {
 	font-size: 10px;
 	padding-bottom: 4px;
+
 }
 
 
@@ -150,6 +154,7 @@ table.header {
 	margin-top: 20px;
 	margin-bottom: 10px;
 	border-bottom: 2px navy solid;
+
 	
 }
 
@@ -171,7 +176,7 @@ table.header td.linha_digitavel {
 	width: 464px;
 	text-align: right;
 	font: bold 15px Arial; 
-	color: navy
+	color: navy;
 }
 
 table.line {
@@ -187,6 +192,7 @@ table.line tr.titulos td {
 	color: navy;
 	border-left: 5px #ffe000 solid;
 	padding-left: 2px;
+
 }
 
 table.line tr.campos td {
@@ -199,6 +205,7 @@ table.line tr.campos td {
 
 table.line td p {
 	font-size: 10px;
+
 }
 
 
@@ -479,6 +486,7 @@ div.barcode {
 @media print {
 
 #instructions {
+
 	height: 1px;
 	visibility: hidden;
 	overflow: hidden;
@@ -507,11 +515,11 @@ div.barcode {
 		
 		<div id="instr_content">
 			<p>
-				O pagamento deste boleto tamb&eacute;m poder&aacute; ser efetuado 
+				O pagamento deste boleto também poderá ser efetuado 
 				nos terminais de Auto-Atendimento BB.
 			</p>
 			
-			<h2>Instru&ccedil;&otilde;es</h2>
+			<h2>Instruções</h2>
 			<ol>
 			<li>
 				Imprima em impressora jato de tinta (ink jet) ou laser, em 

@@ -26,7 +26,6 @@
 // | Desenvolvimento Boleto Banco do Brasil: Daniel William Schultz / Leandro Maniezo / Rogério Dias Pereira / Romeu Medeiros|
 // +-------------------------------------------------------------------------------------------------------------------------+
 
-
 $codigobanco = "001";
 $codigo_banco_com_dv = geraCodigoBanco($codigobanco);
 $nummoeda = "9";
