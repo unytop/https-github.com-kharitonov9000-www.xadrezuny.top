@@ -101,13 +101,13 @@
 #instr_header address {
 	font-style: normal;
 	text-align:left;
-	margin-top:10px;
+	margin-top:5px;
 }
 
 #instr_content {
 	font-style: normal;
 	text-align:left;
-	margin-top: 30px;
+	margin-top: 15px;
 }
 
 #instr_content h2 {
