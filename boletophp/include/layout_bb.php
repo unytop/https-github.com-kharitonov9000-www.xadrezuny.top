@@ -32,7 +32,7 @@
 <head>
 <title><?php echo $dadosboleto["identificacao"]; ?></title>
 <meta charset="UTF-8">
-<link rel="shorcut icon" href="imagens/bb.png" type="img/png"> 
+<link rel="shorcut icon" href="imagens/logo_empresa.png" type="img/png"> 
 <meta name="Generator" content="Projeto BoletoPHP - www.boletophp.com.br - Licença GPL" />
 	
 <style type="text/css">
