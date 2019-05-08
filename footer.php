@@ -67,7 +67,7 @@
 
     <a class="text-white bounceInRight" data-wow-duration="5s">
 
-    <img class="img-fluid wow flip mb-2" data-wow-delay="1s" data-wow-duration="4s" src="assets/nomen.png" height="20" width="40" onMouseOver="this.src='assets/nome.png'" onMouseOut="this.src='assets/nomen.png'" style="position: absolute:fixed;right:935px;bottom: 50px;"></a>
+    <img class="img-fluid wow flip mb-2" data-wow-delay="1s" data-wow-duration="4s" src="assets/nomen.png" height="20" width="40" onMouseOver="this.src='assets/nome.png'" onMouseOut="this.src='assets/nomen.png'" style="position: absolute:fixed;right:935px;bottom: 50px;"> <a class="text-muted"> ©Unytop</a>
   </div>
    	<a class="text-center text-muted "/>| ©2018 Xadrezunytop. Todos os direitos reservados |
 
